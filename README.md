@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bpt11
 - 👀 I’m interested in a lot of things, I've been really getting into foss and linux and stuff like that
-- 🌱 I’m currently learning about self hosting
+- 🌱 I’m currently learning about self hosting and the fediverse
 - 📫 Reach me on Discord (@bpt11) or on the matrix (@bpt11:matrix.org)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a music enthusiast and I run my own music blog <a href="https://thegroovegrounds.com">The Groove Grounds</a>
